@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import Child from './Child';
-function App() {
+
+
+function Child() {
   return (
-    <div>
-    <Child/>
+    <div className ="container">
+        <h1>Expnense Tracker</h1>
+    
     </div>
   );
 }
