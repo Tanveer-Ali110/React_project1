@@ -5,7 +5,7 @@ import './App.css';
 function Child() {
   return (
     <div className ="container">
-        <h1>Expnense Tracker</h1>
+        <h1 className="text-align">Expnense Tracker</h1>
     
     </div>
   );
