@@ -1,7 +1,6 @@
 .container{
   width: 950px;
-  height: 600px;
-  padding: 0px 20px;
+  padding: 15px 20px;
   margin: 0 auto;
   background-color: aliceblue;
   box-shadow: 0 0 10px grey;
@@ -23,7 +22,8 @@
 }
 
 .element-box{
-  margin: 20px 0px;
+  margin: 80px 0px;
+  text-align: end;
   display: flex;
   justify-content: space-around;
   background-color: ghostwhite;
