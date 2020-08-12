@@ -23,13 +23,14 @@
 }
 
 .element-box{
+  margin: 20px 0px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: ghostwhite;
   box-shadow: 0 0 10px grey;
 }
 
-.transection-form{
+.transection-form input{
   width: 100%;
   margin: 10px 0px;
   padding: 5px;

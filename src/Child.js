@@ -17,7 +17,7 @@ function Child() {
     </div>
     
     <div className = "container-element">
-        <h1>Add/New Transaction</h1>
+        <h2>Add/New Transaction</h2>
         <hr/>
         <br/>
         <form className="transection-form">
