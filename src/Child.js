@@ -8,7 +8,7 @@ function Child() {
         <hr/>
 
     <div className = "container-element">
-        <h3>Your Balance<br/> $250</h3>
+        <h2>Your Balance<br/> $250</h2>
 
         <div className= "element-box">
             <h3>INCOME <br/> $300</h3>
@@ -17,17 +17,17 @@ function Child() {
     </div>
     
     <div className = "container-element">
-        <h2>Add/New Transaction</h2>
+        <h2>New Transaction</h2>
         <hr/>
         <br/>
         <form className="transection-form">
             <label>
-                Ener Discription <br/>
+                Enter Discription <br/>
                 <input type = "text" required/>
             </label>
             <br/>
             <label>
-                Ener Amount <br/>
+                Enter Amount <br/>
                 <input type = "number" required/>
             </label>
             <br/>
@@ -37,6 +37,7 @@ function Child() {
     </div>
 
     <div className = "container-element">
+        <h2>Histoy</h2>
 
     </div>
     
