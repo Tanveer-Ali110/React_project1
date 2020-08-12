@@ -33,7 +33,6 @@ function Child() {
                 <br/>
                 <input type="submit" value="Add Transaction"/>
             </form>
-
         </div>
 
         <div className = "container-element">
