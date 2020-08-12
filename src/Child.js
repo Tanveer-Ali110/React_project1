@@ -10,4 +10,4 @@ function Child() {
   );
 }
 
-export default App;
+export default Child;
