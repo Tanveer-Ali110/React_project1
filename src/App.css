@@ -4,7 +4,7 @@
   padding: 0px 20px;
   margin: 0 auto;
   background-color: aliceblue;
-  box-shadow: 2px grey;
+  box-shadow: 0 0 10px grey;
   font-family: 'Times New Roman', Times, serif;
   font-size: larger;
 }
@@ -13,11 +13,23 @@
 }
 
 .container-element{
-  width: 300px;
+  width: 270px;
   height: 400px;
   margin: 10px;
   padding: 10px;
-  background-color: dimgray;
+  background-color: gainsboro;
   font-family: Arial, Helvetica, sans-serif;
   float: left;
+}
+
+.element-box{
+  display: flex;
+  background-color: ghostwhite;
+  box-shadow: 0 0 10px grey;
+}
+
+.transection-form{
+  width: 100%;
+  margin: 10px 0px;
+  padding: 5px;
 }
