@@ -24,6 +24,7 @@
 
 .element-box{
   display: flex;
+  justify-content: space-between;
   background-color: ghostwhite;
   box-shadow: 0 0 10px grey;
 }
